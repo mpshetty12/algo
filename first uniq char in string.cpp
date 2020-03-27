@@ -30,7 +30,7 @@ int firstNonrepeating(char *str)
 }
 int main()
 {
-	char str[] = "geeksforgeeks";
+	char str[] = "shivakumarshetty"
 	int index = firstNonrepeating(str);
 	if(index==-1)
 	{
